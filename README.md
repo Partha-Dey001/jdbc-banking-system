@@ -42,3 +42,7 @@ A simple banking management system implemented in Java using JDBC and MySQL. Thi
    ```bash
    git clone https://github.com/Partha-Dey001/jdbc-banking-system.git
    cd jdbc-banking-system
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
